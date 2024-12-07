@@ -79,6 +79,7 @@ nav button{
     opacity: 0.9;
 }
 .center-part1 button{
+    cursor: pointer;
     background-color: black;
     color: #fff;
     border-radius: 10px;
@@ -283,6 +284,7 @@ nav button{
     font-size: 18px;
 }
 .box-1 h5{
+    cursor: pointer;
     color: #9AE975;
     margin-top: 30px;
     font-size: 23px;
@@ -306,6 +308,7 @@ nav button{
     font-size: 18px;
 }
 .box-2 h5{
+    cursor: pointer;
     color: #9AE975;
     margin-top: 30px;
     font-size: 23px;
@@ -329,6 +332,7 @@ nav button{
     font-size: 18px;
 }
 .box-3 h5{
+    cursor: pointer;
     color: #9AE975;
     margin-top: 30px;
     font-size: 23px;
